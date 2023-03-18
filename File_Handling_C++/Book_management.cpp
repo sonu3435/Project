@@ -9,7 +9,7 @@ class book{
     int bookId;
     char date[15];
     char time[15];
-    char title[25];
+    char title[20];
     int price;
     
     public:
